@@ -1,4 +1,0 @@
-password
-authentication
-fail
-i aam unbale to read file
